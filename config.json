@@ -1,5 +1,5 @@
 {
-  "user_path": "../data/users",
-  "memory_path": "../data/memorys",
-  "dormitory_path": "../data/dormitory"
+  "user_path": "./data/users",
+  "memory_path": "./data/memorys",
+  "dormitory_path": "./data/dormitory"
 }

@@ -10,7 +10,7 @@ const app = express();
 
 // 连接MongoDB
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://www.sysu7s.cn:27017', {auto_reconnect: true});
+mongoose.connect('mongodb://localhost:27017', {auto_reconnect: true});
 mongoose.Promise = global.Promise;  // 使用ES6 Promise
 
 // 连接数据库sevens

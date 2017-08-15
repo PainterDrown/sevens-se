@@ -1,4 +1,4 @@
-# sevens-server
+# sevens-se
 A Node.js Express server for the android project "sevens" (see https://github.com/SYSUZZY/SevenSeconds).
 
 ## How to run it
